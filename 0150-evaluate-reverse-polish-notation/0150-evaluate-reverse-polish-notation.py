@@ -23,7 +23,7 @@ class Solution:
         result = 0
         
         if len(tokens) == 1 and tokens[0].lstrip('+-').isnumeric():
-            return tokens[0]
+            return int(tokens[0])
         elif len(tokens) == 1 and not tokens[0].lstrip('+-').isnumeric():
             return result
         
