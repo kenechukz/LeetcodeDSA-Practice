@@ -64,8 +64,20 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0001-two-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Two Pointer
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
