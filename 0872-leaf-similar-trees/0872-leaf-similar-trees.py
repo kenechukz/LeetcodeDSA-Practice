@@ -9,7 +9,8 @@ class Solution:
 
 
         # a node is a leaf if it has no children
-
+        # Time complexity: O(n)
+        # Space complexity: O(n)
 
         leaves1 = []
         leaves2 = []
@@ -23,12 +24,10 @@ class Solution:
                 leaves.append(root.val)
                 return leaves
 
-
             findLeaves(root.left, leaves)
             findLeaves(root.right, leaves)
 
             return leaves
-
 
         return findLeaves(root1, leaves1) == findLeaves(root2, leaves2)
         
