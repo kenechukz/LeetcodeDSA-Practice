@@ -27,18 +27,14 @@ class Solution:
         # Time Complexity: O(n)
         # Space Complexity: O(n)
 
-
-
         if head.next.next == None:
             return head.val + head.next.val
 
         fast = slow = head
-        size = 0
-        # find middle and size
+        # find middle
         while fast:
             slow = slow.next
             fast = fast.next.next
-            size += 2
 
         # slow at start of twins
         twinVal = []
