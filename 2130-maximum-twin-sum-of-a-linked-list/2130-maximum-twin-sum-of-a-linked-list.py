@@ -19,13 +19,15 @@ class Solution:
         # base case when len is 2
 
         # First I found middle node using fast slow pointers, slow will be middle node
-        # I initialised a stack to hold twin values as top of stack will correspond to twin value for current node
-        # I then populated this stack starting from middle node to end node ofo linked liist
-        # Finally I started current node at head and calculated each twin sum by adding current node's value with top
-        # of stack then popping that value from stack, comparing twinSum to max twinSum value and setting max accordingly
+        # From the slow pointer I began to reverse the twin half of linked list
+        # At the end I let twinHead point to prev which is node before cur when it becomes null i.e. head of reversed list
+        # Finally I started current node (cur) at head and calculated each twin sum by adding current node's value 
+        # and twinHead's value together, comparing twinSum to max twinSum value and setting max accordingly
+        # I then changed cur and twinHead to point to next nodes.
 
+        
         # Time Complexity: O(n)
-        # Space Complexity: O(n)
+        # Space Complexity: O(1) ~ Partial list reversal is done in place
 
         if head.next.next == None:
             return head.val + head.next.val
@@ -36,21 +38,27 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
-        # slow at start of twins
-        twinVal = []
+        # slow is at middle node
         cur = slow
+        prev = None
         while cur:
-            twinVal.append(cur.val)
-            cur = cur.next
-
+            # reverse twin part of linked list
+            forward = cur.next
+            cur.next = prev
+            prev = cur
+            cur = forward
+        twinHead = prev
+        
         # Checking max sum
         maxSum = 0
         cur = head
         while cur != slow:
-            twinSum = cur.val + twinVal.pop()
+            twinSum = cur.val + twinHead.val
             if twinSum > maxSum:
                 maxSum = twinSum
             cur = cur.next
+            twinHead = twinHead.next
+
         return maxSum
             
 
