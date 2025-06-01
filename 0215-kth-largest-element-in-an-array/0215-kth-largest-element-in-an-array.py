@@ -1,27 +1,27 @@
-import heapq
-
+import heapq as hq
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
 
-        # nums = [3,2,3,1,2,4,5,5,6], k = 4
-        # 1,2,2,3,3,4,5,5,6 
-        # Time complexity: O(n + klogn)
-        # Space complexity: O(1)
-        # negate each value in nums array and make nums a binary heap 
-        # (in concept but actually a priority queue) 
-        # pop k-1 times
-        # return negated value of kth pop 
+        # create a min heap
+        # iterate through nums (O(N) time)
+        # push to min heap k times (log k time, k space)
+        # when size is == k, we push to min heap and pop from it
+        # when finished iterating nums, return top of min heap
+        # Time complexity: O(n log k)
+        # Space complexity: O(k)
 
-        nums = [-num for num in nums]
-        heapq.heapify(nums)
+        min_heap = []
 
-        for _ in range(k-1):
-            heapq.heappop(nums)
+        hq.heapify(min_heap)
+
+        for num in nums:
+
+            if len(min_heap) < k:
+                hq.heappush(min_heap, num)
             
+            else:
+                hq.heappushpop(min_heap, num)
 
-
-        return -heapq.heappop(nums)
-        
-
-
+        return min_heap[0]
+            
         
