@@ -7,6 +7,10 @@ class Solution:
         # 1,2,2,3,3,4,5,5,6 
         # Time complexity: O(n + klogn)
         # Space complexity: O(1)
+        # negate each value in nums array and make nums a binary heap 
+        # (in concept but actually a priority queue) 
+        # pop k-1 times
+        # return negated value of kth pop 
 
         nums = [-num for num in nums]
         heapq.heapify(nums)
