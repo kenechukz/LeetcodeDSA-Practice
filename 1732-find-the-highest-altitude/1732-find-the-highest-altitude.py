@@ -5,7 +5,7 @@ class Solution:
         # It's gain[i-1] as initial altitude 0 is not in gain array so we have to start
         # at first index of gain rather than index 1
         # Time complexity: O(n)
-        # Space complexity: 0(n)
+        # Space complexity: 0(1)
         
         gain.insert(0, 0)
         for i in range(1, len(gain)):
