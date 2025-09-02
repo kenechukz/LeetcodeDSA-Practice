@@ -65,6 +65,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0011-container-with-most-water) |
+| [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
@@ -164,6 +165,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
