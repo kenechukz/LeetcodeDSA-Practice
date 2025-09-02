@@ -80,6 +80,7 @@ Observe the wiped disk:  <br/>
 | [0392-is-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1071-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -163,6 +164,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
