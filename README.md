@@ -111,6 +111,7 @@ Observe the wiped disk:  <br/>
 | [0102-binary-tree-level-order-traversal](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
@@ -118,6 +119,7 @@ Observe the wiped disk:  <br/>
 | [0102-binary-tree-level-order-traversal](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree) |
 ## Heap / Priority Queue
 |  |
@@ -171,4 +173,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
