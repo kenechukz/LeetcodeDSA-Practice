@@ -70,6 +70,7 @@ Observe the wiped disk:  <br/>
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -84,6 +85,7 @@ Observe the wiped disk:  <br/>
 | [0443-string-compression](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -157,6 +159,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0162-find-peak-element](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0162-find-peak-element) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0700-search-in-a-binary-search-tree) |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 ## Miscellaneous
 |  |
 | ------- |
@@ -192,4 +195,13 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
