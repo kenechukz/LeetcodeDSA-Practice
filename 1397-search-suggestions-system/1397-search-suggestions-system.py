@@ -1,4 +1,8 @@
 class Solution:
+    
+    # Time: O(n log n + m)
+    # Space: O(n)
+
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
         res = []
         products.sort()
