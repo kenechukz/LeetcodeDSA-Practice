@@ -65,6 +65,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0011-container-with-most-water) |
+| [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
