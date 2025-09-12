@@ -2,6 +2,11 @@ class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         res = []
 
+        """
+        Time: O(n)
+        Space: O(n)
+        """
+
         for i in range(len(intervals)):
             
             # If the new interval is less than current interval
