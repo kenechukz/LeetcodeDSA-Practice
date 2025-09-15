@@ -103,6 +103,7 @@ Observe the wiped disk:  <br/>
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0155-min-stack) |
 | [0394-decode-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0394-decode-string) |
+| [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
 ## Two Pointer
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -209,4 +211,12 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
