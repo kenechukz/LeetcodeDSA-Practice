@@ -1,70 +1,34 @@
-import heapq
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
-        R:
-        inp: sorted nums1, num2
-        m =len nums1
-        n = len nums2
+        Do not return anything, modify nums1 in-place instead.
 
-        merge + sort into nums1
-        return None
-
-        E: 
-        if n == zero -> do nothing
-
-        A:
-        #1
-        nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6]
-                       3 
-        add num2 to nums1 from index m to end of list - O(m)
-        sort - (n log n)
-
-        #2
-        nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6]
-                     l                         
-                                               r
-        sorted_array [1, 2, 2]
-
-        ...
-        nums1 = sorted_array
-
-
+        nums1 = [1,2,3,3,5,6],  nums2 = [2,5,6] 
+                 m    
+                                         n
+                  l 
         """
+        l = m+n-1
 
-        sorted_array = []
-        if n == 0:
-            return None
 
-        n1,n2 = 0,0
-        while n1 < m and n2 < n:
-            if nums1[n1] <= nums2[n2]:
-                sorted_array.append(nums1[n1])
-                n1+=1
+        while m > 0 and n > 0:
+
+            if nums1[m-1] < nums2[n-1]:
+                nums1[l] = nums2[n-1]
+                n-=1
             else:
-                sorted_array.append(nums2[n2])
-                n2+=1
+                nums1[l] = nums1[m-1]
+                m-=1
 
-        if n1 >= m and n2 < n:
-            while n2 < n:
-                sorted_array.append(nums2[n2]) 
-                n2+=1
+            l-=1
 
-        if n2 >= n and n1 < m:
-            while n1 < m:
-                sorted_array.append(nums1[n1]) 
-                n1+=1
+        while n > 0:
+            nums1[l] = nums2[n-1]
+            n-=1
+            l-=1
         
-        for i in range(m+n):
-            nums1[i] = sorted_array[i]
-
-        
-
-
-
-
-        
-
+            
+            
 
 
 
