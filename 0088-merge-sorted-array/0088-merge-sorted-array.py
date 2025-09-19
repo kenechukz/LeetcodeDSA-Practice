@@ -55,7 +55,6 @@ class Solution:
                 sorted_array.append(nums1[n1]) 
                 n1+=1
         
-        print(sorted_array)
         for i in range(m+n):
             nums1[i] = sorted_array[i]
 
