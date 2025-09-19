@@ -66,6 +66,7 @@ Observe the wiped disk:  <br/>
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
@@ -205,6 +206,7 @@ Observe the wiped disk:  <br/>
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
@@ -219,4 +221,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
