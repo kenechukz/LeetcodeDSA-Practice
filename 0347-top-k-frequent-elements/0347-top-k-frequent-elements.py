@@ -14,7 +14,7 @@ class Solution:
         # pop k freq elems
         res = []
 
-        for i in range(n, -1,-1):
+        for i in range(n, 0,-1):
             bucket = bucket_arr[i]
             for num in bucket:
                 res.append(num)
