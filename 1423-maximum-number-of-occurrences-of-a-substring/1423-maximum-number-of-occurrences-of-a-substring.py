@@ -42,6 +42,18 @@ class Solution:
         l r
         inc r while < minSize
         
+        Optimization:
+        we find a substring of size x >= minSize that is valid
+        unique chars (x) <= maxLetters
+        x = yy
+        x - Parent sub string
+
+        => that a substring y of x with length = minSize is also valid
+        unique chars (y) <= maxLetters
+
+        since y is less than x, it is contained in x
+        we can take a greedy approach
+        y occurs twice is x, whereas x occurs once
         """
 
         maxOcc = 0
@@ -52,9 +64,8 @@ class Solution:
             return 0
 
         # Find all sub strings
-        for i in range(n):
-            for j in range(i + minSize-1, min(i + maxSize, n)):
-                curSub = s[i:j +1]
+        for i in range(n - minSize +1):
+                curSub = s[i:i +minSize]
                 if len(set(curSub)) <= maxLetters: 
                     occ[curSub] = occ.get(curSub, 0) + 1
                     maxOcc = max(maxOcc, occ[curSub])
