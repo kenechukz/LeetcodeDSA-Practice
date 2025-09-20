@@ -28,7 +28,6 @@ class Solution:
         n = len(nums)
         if n == 1 and k == 1:
             return nums
-
         j = 0
         for i in range(n):
             x = nums[i]
@@ -37,11 +36,9 @@ class Solution:
                 lst.append([-1, x])
                 j+=1
             else:
-                #print(seen[x])
                 lst[seen[x]][0] -=1
 
         heapq.heapify(lst)
-        print(lst)
         res = [(heapq.heappop(lst))[1] for _ in range(k)] 
         return res
 
