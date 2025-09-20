@@ -89,6 +89,7 @@ Observe the wiped disk:  <br/>
 | [1071-greatest-common-divisor-of-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -98,6 +99,7 @@ Observe the wiped disk:  <br/>
 | [0128-longest-consecutive-sequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy / Subsequence
 |  |
