@@ -65,6 +65,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
@@ -211,6 +212,7 @@ Observe the wiped disk:  <br/>
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
