@@ -29,9 +29,7 @@ class Bank:
 
     def transfer(self, account1: int, account2: int, money: int) -> bool:
         if self.validate(account1) and self.validate(account2):
-            fromAcc = self.balance[account1-1]
-            toAcc = self.balance[account2-1]
-            if money > fromAcc:
+            if money > self.balance[account1-1]:
                 return False
             else:
                 self.balance[account1-1] -= money
