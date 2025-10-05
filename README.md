@@ -76,6 +76,7 @@ Observe the wiped disk:  <br/>
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1679-max-number-of-k-sum-pairs) |
@@ -230,6 +231,7 @@ Observe the wiped disk:  <br/>
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
@@ -261,6 +263,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Quickselect
 |  |
@@ -274,4 +277,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
