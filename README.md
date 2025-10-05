@@ -95,6 +95,7 @@ Observe the wiped disk:  <br/>
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ Observe the wiped disk:  <br/>
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0046-permutations](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0046-permutations) |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Observe the wiped disk:  <br/>
 | [0334-increasing-triplet-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1252-break-a-palindrome](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1252-break-a-palindrome) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Linked List
 |  |
 | ------- |
@@ -259,4 +262,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
