@@ -24,23 +24,33 @@ class Solution:
 
         """
 
-        boxTypes.sort(key= lambda x: x[1], reverse=True)
+        boxes = [0] * 1001
+        for boxT in boxTypes:
+            boxes[boxT[1]] += boxT[0]
 
-        res = 0
 
-        print(boxTypes)
-        for i in range(len(boxTypes)):
-            boxes = boxTypes[i][0]
-            units = boxTypes[i][1]
+        i = 1000
+        units = 0
+        while truckSize and i > 0:
 
-            if boxes > truckSize:
-                res += truckSize * units
-                return res
+            if boxes[i] == 0:
+                i-=1
+                continue
+            toLoad = min(truckSize, boxes[i])
+            units += toLoad * i
+            boxes[i] -= toLoad
+            truckSize -= toLoad
+            i-=1
+            
 
-            res += boxes * units
-            truckSize -= boxes
+        return units
 
-        return res
+
+
+
+
+
+        
 
         
 
