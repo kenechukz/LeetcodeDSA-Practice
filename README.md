@@ -91,6 +91,7 @@ Observe the wiped disk:  <br/>
 | [0443-string-compression](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
+| [1252-break-a-palindrome](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1252-break-a-palindrome) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
@@ -159,6 +160,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [1252-break-a-palindrome](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1252-break-a-palindrome) |
 ## Linked List
 |  |
 | ------- |
