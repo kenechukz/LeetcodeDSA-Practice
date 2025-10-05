@@ -36,7 +36,6 @@ class Solution:
             if arr[j][1] == 0:
                 unique -=1
                 j+=1
-            print(i,j)
             i+=1
 
         return unique
