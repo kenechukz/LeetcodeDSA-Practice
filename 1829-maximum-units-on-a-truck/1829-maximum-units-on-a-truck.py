@@ -32,17 +32,13 @@ class Solution:
         for i in range(len(boxTypes)):
             boxes = boxTypes[i][0]
             units = boxTypes[i][1]
-            boxesUsed = boxes
-
-
-            if truckSize == 0:
-                return res
 
             if boxes > truckSize:
-                boxesUsed = truckSize
+                res += truckSize * units
+                return res
 
-            res += boxesUsed * units
-            truckSize -= boxesUsed
+            res += boxes * units
+            truckSize -= boxes
 
         return res
 
