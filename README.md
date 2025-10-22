@@ -75,6 +75,7 @@ Observe the wiped disk:  <br/>
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +167,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
