@@ -80,6 +80,7 @@ Observe the wiped disk:  <br/>
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1679-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
@@ -170,6 +171,7 @@ Observe the wiped disk:  <br/>
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Linked List
@@ -235,6 +237,7 @@ Observe the wiped disk:  <br/>
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
