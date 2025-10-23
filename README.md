@@ -75,6 +75,7 @@ Observe the wiped disk:  <br/>
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -155,6 +156,7 @@ Observe the wiped disk:  <br/>
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0046-permutations](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0046-permutations) |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sliding Window
 |  |
@@ -234,6 +236,7 @@ Observe the wiped disk:  <br/>
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -243,6 +246,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 ## Monotonic Stack
 |  |
@@ -260,6 +264,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,6 +279,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -286,4 +292,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
