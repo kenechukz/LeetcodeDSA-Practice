@@ -74,6 +74,7 @@ Observe the wiped disk:  <br/>
 | [0283-move-zeroes](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -111,6 +112,7 @@ Observe the wiped disk:  <br/>
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
@@ -162,6 +164,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
