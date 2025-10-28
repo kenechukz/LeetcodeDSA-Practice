@@ -68,6 +68,7 @@ Observe the wiped disk:  <br/>
 | [0056-merge-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
@@ -302,4 +303,20 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
