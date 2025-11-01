@@ -87,6 +87,7 @@ Observe the wiped disk:  <br/>
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1679-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Observe the wiped disk:  <br/>
 | [1512-design-underground-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1512-design-underground-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Observe the wiped disk:  <br/>
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
