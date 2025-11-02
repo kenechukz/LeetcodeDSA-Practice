@@ -48,13 +48,18 @@ class Solution:
             i *= 10
             cur = cur.next
         
-        res = str(num1 + num2)
+        res = num1 + num2
 
         dummy = ListNode(-1)
         cur = dummy
-        for digit in reversed(res):
-            newNode = ListNode(int(digit))
+        digit = res
+
+        if res == 0:
+            return ListNode(0)
+        while digit > 0:
+            newNode = ListNode(digit % 10)
             cur.next = newNode
             cur = newNode
+            digit =  digit // 10
 
         return dummy.next
