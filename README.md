@@ -108,6 +108,7 @@ Observe the wiped disk:  <br/>
 | [1768-merge-strings-alternately](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1768-merge-strings-alternately) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2185-counting-words-with-a-given-prefix) |
+| [3905-partition-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3905-partition-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Observe the wiped disk:  <br/>
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3905-partition-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3905-partition-string) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Observe the wiped disk:  <br/>
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
+| [3905-partition-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3905-partition-string) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +301,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
+| [3905-partition-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3905-partition-string) |
 ## Game Theory
 |  |
 | ------- |
