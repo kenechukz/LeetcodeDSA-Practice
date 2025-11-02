@@ -93,6 +93,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -113,6 +114,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
@@ -165,6 +167,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0046-permutations](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0046-permutations) |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
