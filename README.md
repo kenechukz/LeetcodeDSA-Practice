@@ -160,6 +160,7 @@ Observe the wiped disk:  <br/>
 ## Math / Simulation
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0046-permutations](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0046-permutations) |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
@@ -188,6 +189,7 @@ Observe the wiped disk:  <br/>
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -322,4 +324,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
