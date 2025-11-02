@@ -75,6 +75,7 @@ Observe the wiped disk:  <br/>
 | [0283-move-zeroes](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
@@ -115,6 +116,7 @@ Observe the wiped disk:  <br/>
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1512-design-underground-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1512-design-underground-system) |
@@ -328,4 +330,8 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
