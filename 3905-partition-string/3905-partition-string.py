@@ -20,21 +20,15 @@ class Solution:
          c
          j
         """
-
         seen = set()
         res = []
-        cur = 0
-        j = 0
-
-        while j < len(s):
-            seg = s[cur:j+1]
+        seg = ""
+        for ch in s:
+            seg += ch
             if not seg in seen:
                 seen.add(seg)
                 res.append(seg)
-                j+=1
-                cur=j
-            else:
-                j+=1
+                seg = ""
 
         return res
             
