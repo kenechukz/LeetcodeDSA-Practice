@@ -68,6 +68,7 @@ Observe the wiped disk:  <br/>
 | [0015-3sum](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
@@ -172,6 +173,7 @@ Observe the wiped disk:  <br/>
 | [0043-multiply-strings](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0043-multiply-strings) |
 | [0046-permutations](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0046-permutations) |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0066-plus-one) |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
