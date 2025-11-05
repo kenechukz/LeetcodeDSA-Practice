@@ -70,6 +70,7 @@ Observe the wiped disk:  <br/>
 | [0057-insert-interval](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0216-combination-sum-iii) |
@@ -224,6 +225,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1250-longest-common-subsequence) |
