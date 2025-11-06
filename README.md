@@ -79,6 +79,7 @@ Observe the wiped disk:  <br/>
 | [0283-move-zeroes](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1004-max-consecutive-ones-iii) |
