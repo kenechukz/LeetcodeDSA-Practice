@@ -127,6 +127,7 @@ Observe the wiped disk:  <br/>
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0238-product-of-array-except-self](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -209,6 +210,7 @@ Observe the wiped disk:  <br/>
 | [0002-add-two-numbers](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list) |
@@ -252,6 +254,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0937-online-stock-span) |
 | [1512-design-underground-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1512-design-underground-system) |
 | [2169-simple-bank-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/2169-simple-bank-system) |
@@ -280,6 +283,7 @@ Observe the wiped disk:  <br/>
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/0355-design-twitter) |
 | [1014-k-closest-points-to-origin](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/kenechukz/LeetcodeDSA-Practice/tree/master/1397-search-suggestions-system) |
 ## Monotonic Stack
