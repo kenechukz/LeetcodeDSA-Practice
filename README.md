@@ -58,7 +58,11 @@ Observe the wiped disk:  <br/>
 ```
 --!>
 
+
+
 <!---LeetCode Topics Start-->
+In this repository, you can find a list of different LeetCode questions I have solved, along with a detailed approach to my solution and time and space complexity analysis for each.
+I aim to use this repository to keep track of my progress and refine my solutions over time. I hope to gain a better understanding of Data Structures and Algorithms.
 # LeetCode Topics
 ## Array
 |  |
