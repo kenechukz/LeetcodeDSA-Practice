@@ -7,6 +7,8 @@ class Solution:
     ends at index i. For each index i, I compare nums[i] with all elements at earlier indices j < i in the array. 
     If nums[j] < nums[i], I update dp[i] = max(dp[i], dp[j] + 1). The final answer is the maximum value in dp.
 
+
+    
     A:
 
         if cur < next:
